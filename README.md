@@ -1,10 +1,9 @@
 # 💫 Projects
 
-<br>Professional AI Chatbot - https://chatbot.ryanle.ca/
-<br>Folklorama Map - https://pavilions.ryanle.ca/
-<br>React Flow Form Builder - https://form-builder.ryanle.ca/
-<br>AI Passphrase Generator - https://passphrase-generator.ryanle.ca/
-
+<br><a href="https://chatbot.ryanle.ca/">Professional AI Chatbot</a>
+<br><a href="https://pavilions.ryanle.ca/">Folklorama Map</a>
+<br><a href="https://form-builder.ryanle.ca/">React Flow Form Builder</a>
+<br><a href="https://passphrase-generator.ryanle.ca/">AI Passphrase Generator</a>
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-l3)
