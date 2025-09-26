@@ -1,10 +1,14 @@
 # 💫 Projects
 
-<br>Professional AI Chatbot - https://chatbot.ryanle.ca/<br>Folklorama Map - https://pavilions.ryanle.ca/<br>React Flow Form Builder - https://form-builder.ryanle.ca/<br>AI Passphrase Generator - https://passphrase-generator.ryanle.ca/
+<br>Professional AI Chatbot - https://chatbot.ryanle.ca/
+<br>Folklorama Map - https://pavilions.ryanle.ca/
+<br>React Flow Form Builder - https://form-builder.ryanle.ca/
+<br>AI Passphrase Generator - https://passphrase-generator.ryanle.ca/
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ryan-l3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@ryanle.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-l3)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@ryanle.ca)
 
 # 💻 Tech Stack:
 
